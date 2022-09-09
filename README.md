@@ -1,9 +1,12 @@
-# Hi there 👋
+## Hi there 👋
 My name is Rom Orlovich.
 \
-I'm a highly motivated Full Stack Developer experienced with cutting-edge technologies like React, TypeScript, Node, Express, MongoDB, Sql, ect.
-##  How to reach me: 📫
-My Linkedin - [Rom Orlovich](https://www.linkedin.com/in/rom-orlovich/)
+I'm a highly motivated Full Stack Developer experience with cutting-edge technologies like:
+\
+**React**, **TypeScript**, **Node**, **Express**, **MongoDB**, **Sql**, **ect**.
+## How to reach me: 📫
+
+**My Linkedin** - [Rom Orlovich](https://www.linkedin.com/in/rom-orlovich/)
 
 <!--
 **rom-orlovich/rom-orlovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
